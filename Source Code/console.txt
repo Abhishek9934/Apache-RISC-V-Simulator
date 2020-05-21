@@ -1,0 +1,2 @@
+Assume CPI = 5
+Total clock cycles for program = 1995
