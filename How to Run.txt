@@ -1,0 +1,7 @@
+1. Install python 3.8
+2. Install dataclasses, PyQt5  modules.
+3. Change current working directory to 'Source Code'
+4. Run the following command on terminal:
+	python Apache.py
+
+ALWAYS GO TO 3rd Tab BEFORE GOING TO 4th Tab 
